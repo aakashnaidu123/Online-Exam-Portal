@@ -14,15 +14,15 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!-- Badges -->
 <p>
   <a href="(https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md)">
-    <img src="https://img.shields.io/github/contributors/chintan-golakiya/online-exam-portal" alt="contributors" />
+    <img src="https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/chintan-golakiya/online-exam-portal" alt="last update" />
+    <img src="https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md" />
   </a>
   <a href="https://github.com/chintan-golakiya/online-exam-portal/network/members">
-    <img src="https://img.shields.io/github/forks/chintan-golakiya/online-exam-portal" alt="forks" />
+    <img src="https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md" alt="forks" />
   </a>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/stargazers">
+  <a href="https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md">
     <img src="https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md" alt="stars" />
   </a>
   <a href="https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md">
@@ -230,7 +230,7 @@ Distributed under the no License.
 <!-- Contact -->
 ## :handshake: Contact
 
-Chintan Golakiya - [@_chint4n_]() - golakiyachintan24@gmail.com
+Aakash Naidu - [@_aakash_]() - aakashnaidugandrothu@gmail.com
 
 Project Link: [[(https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md)](https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md))
 
