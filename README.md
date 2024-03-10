@@ -13,7 +13,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/graphs/contributors">
+  <a href="(https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md)">
     <img src="https://img.shields.io/github/contributors/chintan-golakiya/online-exam-portal" alt="contributors" />
   </a>
   <a href="">
@@ -23,19 +23,19 @@ Maybe you can mention me or this repo in the acknowledgements too
     <img src="https://img.shields.io/github/forks/chintan-golakiya/online-exam-portal" alt="forks" />
   </a>
   <a href="https://github.com/chintan-golakiya/online-exam-portal/stargazers">
-    <img src="https://img.shields.io/github/stars/chintan-golakiya/online-exam-portal" alt="stars" />
+    <img src="https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md" alt="stars" />
   </a>
-  <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">
-    <img src="https://img.shields.io/github/issues/chintan-golakiya/online-exam-portal" alt="open issues" />
+  <a href="https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md">
+    <img src="https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md" />
   </a>
 </p>
    
 <h4>
-    <a href="https://chintan-golakiya.github.io/online-exam-portal-frontend/">View Demo</a>
+    <a href="https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">Report Bug</a>
+    <a href="https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">Request Feature</a>
+    <a href="https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md">Request Feature</a>
   </h4>
 </div>
 
@@ -209,8 +209,8 @@ Use following paths
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/chintan-golakiya/online-exam-portal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=chintan-golakiya/online-exam-portal" />
+<a href="(https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md)">
+  <img src="https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md" />
 </a>
 
 
@@ -230,9 +230,9 @@ Distributed under the no License.
 <!-- Contact -->
 ## :handshake: Contact
 
-Chintan Golakiya - [@_chint4n_](https://twitter.com/_chint4n_) - golakiyachintan24@gmail.com
+Chintan Golakiya - [@_chint4n_]() - golakiyachintan24@gmail.com
 
-Project Link: [https://github.com/chintan-golakiya/online-exam-portal](https://github.com/chintan-golakiya/online-exam-portal)
+Project Link: [[(https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md)](https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md))
 
 
 <!-- Acknowledgments -->
@@ -241,6 +241,6 @@ Following libraries have been used in this projects.
 
  - [Material UI](https://www.mui.com)
  - [Passport JS](https://www.passportjs.org/)
- - [Awesome Readme Template](https://github.com/Louis3797/awesome-readme-template)
+ - [Awesome Readme Template](https://github.com/aakashnaidu123/Online-Exam-Portal/edit/main/README.md)
 
 # Online-Exam-Portal
